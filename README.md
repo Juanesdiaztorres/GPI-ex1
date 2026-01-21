@@ -1,4 +1,4 @@
 - Juan Esteban Díaz Torres
 - 202020319
 - Soy Juan Esteban, me encanta correr, ver películas y la f1. Me gradué como economista de la universidad y actualmente soy profesional en Fasecolda.
-- Para este curso me gustaría aprender de forma ordenada buenas prácticas y métodos para ordenar información que en cursos anteriores aprendí de alguna forma sobre la marcha
+- Para este curso me gustaría aprender de forma ordenada buenas prácticas y métodos para ordenar información, que en cursos anteriores aprendí de alguna forma sobre la marcha
